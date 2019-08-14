@@ -16,9 +16,4 @@ open `\libs\config` and change the following variables to match your `MongoDB` i
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
+Run `node server.js` for a dev server. Server will run on http://localhost:3000 by default.
